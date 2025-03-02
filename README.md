@@ -1,4 +1,4 @@
-# Job Posting Platform (MERN Stack)
+# Job-Eased (MERN Stack)
 
 A full-stack web application where candidates can log in using LinkedIn, create profiles, and companies can browse available candidates.
 
